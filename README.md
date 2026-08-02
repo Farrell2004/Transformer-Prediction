@@ -23,6 +23,3 @@ Prediksi cuaca di Jakarta menggunakan model Transformer untuk time series foreca
 - `best_transformer.keras` : model terlatih
 - `forecast_next_24_hours.csv` : prediksi 24 jam ke depan
 - `transformer-prediction-weather.ipynb` : notebook utama
-
-## 📜 Lisensi
-MIT License
